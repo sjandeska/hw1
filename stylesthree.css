@@ -1,0 +1,22 @@
+h1 {font-family: "century";
+    color: purple;}
+body {font-family:  "century";
+      font-size: 20px;
+      border: solid 5px gray;
+      padding: 77px}
+h2 {font-family:  "century";
+      font-size: 30px;}
+h3 {font-family:  "century";
+          font-size: 20px;
+          color: maroon;}
+h4 {font-family:  "century";
+            font-size: 30px;}
+h5 {font-family:  "century";
+                  font-size: 20px;
+                color: maroon;}
+div {border: solid 5px gray;
+padding: 20px
+}
+ul {list-style-position: inside;
+      padding-left:0;
+      }

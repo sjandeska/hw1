@@ -1,0 +1,42 @@
+h1 {font-family: "century"}
+body {font-family:  "century";
+      font-size: 20px;
+      border: solid 5px gray;
+      padding: 77px}
+h1 {color: orange;  }
+div {border: solid 5px gray;
+padding: 20px
+}
+
+h2 {font-family: "century";
+    font-size: 20px;
+    padding: 0;
+    margin: 0;}
+body {font-family:  "century";
+      font-size: 20px;
+    }
+
+h3 {font-family: "century";
+    font-size: 20px;
+    color: dark gray;}
+body {font-family:  "century";
+      font-size: 20px;
+      color: black;}
+ul {list-style-position: inside;
+      padding-left:0;
+      }
+h4 {font-family: "century";
+    font-size: 30px;}
+body {font-family:  "century";
+      font-size: 20px;
+    }
+h4 {color: brown;  }
+.highlighter {
+  background-color: pink;
+}
+h5{color: green;
+  font-family: "century";
+    font-size: 30px;}
+body {font-family:  "century";
+      font-size: 20px;
+    }

@@ -1,11 +1,10 @@
 
-h1 {font-family: "calibri"}
+h1 {font-family: "century"}
 body {font-family:  "century";
-      width: 1000px;
-      margin: 0 auto;}
+      font-size: 20px;
+      border: solid 5px gray;
+      padding: 77px}
 h1 {color: brown;  }
 div {border: solid 5px gray;
 padding: 20px
 }
-span {background-color: yellow;}
-.important {background-color: pink;font-size 22px}
